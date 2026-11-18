@@ -6,7 +6,7 @@ This patch changes the controls so that movement corresponds to the direction pr
 
 Press Select to toggle between the original and patched movement controls anywhere, useful for the password entry screen.
 
-The game has an cheat menu you can access with
+The game has a cheat menu you can access with
 L L R L Select Start A
 shoulder buttons, not the dpad.
 Not really relevant thought I'd just add that info.
